@@ -1,0 +1,36 @@
+C:\Users\Hüseyin Genç\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\bin\Debug\net5.0-windows\soru1.exe
+C:\Users\Hüseyin Genç\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\bin\Debug\net5.0-windows\soru1.deps.json
+C:\Users\Hüseyin Genç\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\bin\Debug\net5.0-windows\soru1.runtimeconfig.json
+C:\Users\Hüseyin Genç\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\bin\Debug\net5.0-windows\soru1.runtimeconfig.dev.json
+C:\Users\Hüseyin Genç\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\bin\Debug\net5.0-windows\soru1.dll
+C:\Users\Hüseyin Genç\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\bin\Debug\net5.0-windows\ref\soru1.dll
+C:\Users\Hüseyin Genç\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\bin\Debug\net5.0-windows\soru1.pdb
+C:\Users\Hüseyin Genç\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\soru1.csproj.AssemblyReference.cache
+C:\Users\Hüseyin Genç\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\soru1.Form1.resources
+C:\Users\Hüseyin Genç\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\soru1.csproj.GenerateResource.cache
+C:\Users\Hüseyin Genç\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\soru1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hüseyin Genç\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\soru1.AssemblyInfoInputs.cache
+C:\Users\Hüseyin Genç\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\soru1.AssemblyInfo.cs
+C:\Users\Hüseyin Genç\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\soru1.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin Genç\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\soru1.dll
+C:\Users\Hüseyin Genç\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\ref\soru1.dll
+C:\Users\Hüseyin Genç\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\soru1.pdb
+C:\Users\Hüseyin Genç\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\soru1.genruntimeconfig.cache
+C:\Users\User\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\bin\Debug\net5.0-windows\soru1.exe
+C:\Users\User\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\bin\Debug\net5.0-windows\soru1.deps.json
+C:\Users\User\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\bin\Debug\net5.0-windows\soru1.runtimeconfig.json
+C:\Users\User\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\bin\Debug\net5.0-windows\soru1.runtimeconfig.dev.json
+C:\Users\User\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\bin\Debug\net5.0-windows\soru1.dll
+C:\Users\User\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\bin\Debug\net5.0-windows\soru1.pdb
+C:\Users\User\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\soru1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\soru1.Form1.resources
+C:\Users\User\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\soru1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\soru1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\soru1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\soru1.AssemblyInfo.cs
+C:\Users\User\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\soru1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\soru1.dll
+C:\Users\User\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\refint\soru1.dll
+C:\Users\User\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\soru1.pdb
+C:\Users\User\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\soru1.genruntimeconfig.cache
+C:\Users\User\Desktop\NESNEYE YÖNELİK VİZE ÖDEVİ\Soru1\aa\obj\Debug\net5.0-windows\ref\soru1.dll
