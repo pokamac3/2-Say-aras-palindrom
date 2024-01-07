@@ -1,0 +1,1 @@
+# 2-Say-aras-palindrom
